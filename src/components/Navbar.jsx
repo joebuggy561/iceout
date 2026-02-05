@@ -100,7 +100,7 @@ const Navbar = () => {
             ))}
 
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSd_n0ZKu-OUlJkmCk04Tf-0ArgbFAmkyEK0lq-WoxFRBFQ4sA/viewform"
+              href="https://ko-fi.com/josephnwani"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full text-center bg-gray-900 text-white px-6 py-2.5 rounded-lg text-sm font-medium
