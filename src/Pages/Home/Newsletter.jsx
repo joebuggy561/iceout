@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { HiArrowRight } from "react-icons/hi";
-import { supabase } from "../supabaseClient"; // Make sure you create this file
+import { supabase } from "../../lib/supabase"; // Make sure you create this file
 
 const Newsletter = () => {
   const [email, setEmail] = useState("");
